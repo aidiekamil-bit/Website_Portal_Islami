@@ -218,9 +218,7 @@
             placeholder="Cari doa harian (contoh: bangun tidur, rezeki, orang tua)..."
             value="{{ $search ?? '' }}"
         >
-        <button type="submit" class="btn btn-success px-4 rounded-3 fw-semibold">
-            <i class="fa-solid fa-search me-1"></i> Cari
-        </button>
+       
     </form>
 
     <!-- Doa Grid -->
